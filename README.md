@@ -1,6 +1,10 @@
 
 
-<h1 align="center">Hi 👋, I'm Ichrak 😄</h1>
+<h1 id="profile-heading" align="center">
+  <span class="animated-text">Hi 👋, I'm Ichrak 😄</span>
+</h1>
+
+
 <h3 align="center">Computer Science Engineering Student</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ichrakbenhsinne&label=Profile%20views&color=0e75b6&style=flat" alt="ichrakbenhsinne" /> </p>
