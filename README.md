@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif">
-- 📫 How to reach me **ichrak.benhsinne@etudiant-enit.utm.tn**
+- 📫 How to reach me  ichrak.benhsinne@etudiant-enit.utm.tn
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
